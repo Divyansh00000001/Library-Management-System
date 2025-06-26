@@ -19,6 +19,7 @@ This is a simple **Object-Oriented Library Management System** developed in Java
 - Terminal / Command Prompt
 
 Book.java is used to define the blueprint of features such as addbook, viewlist, issuedbook, returnbook etc.
+
 Library.java is used to give blueprint of implementing the functions present in Book.java
 
 Main.java is used to take inputs from the users and to make use of the functions written in the above .java files
